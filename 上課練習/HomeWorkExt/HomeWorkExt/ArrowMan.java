@@ -26,4 +26,5 @@ public class ArrowMan extends Hero {
 	}
 	
 	private int 1;
+	public String realMaster;
 }
