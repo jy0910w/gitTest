@@ -24,4 +24,6 @@ public class ArrowMan extends Hero {
 	public void defend() {
 		System.out.println("做防禦動作");
 	}
+	
+	private int 1;
 }
